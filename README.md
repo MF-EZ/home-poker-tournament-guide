@@ -52,7 +52,7 @@ The most common challenges during home tournaments are:
 Using a simple, dedicated timer helps avoid these issues.
 
 For blind timers and basic tournament management, I use **Chip Challenger**  
-👉 https://chipchallenger.com  
+👉 https://www.chipchallenger.com  
 
 It’s a **free, browser-based poker tournament manager** that works without registration and includes optional Pro features for advanced users.
 
